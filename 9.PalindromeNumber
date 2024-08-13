@@ -15,3 +15,5 @@ class Solution {
         return isCorrect;
     }
 }
+
+// I got TC O(Log10N)
