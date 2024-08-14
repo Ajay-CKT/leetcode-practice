@@ -39,3 +39,5 @@ class RomanToInteger {
         System.out.println("Roman to Integer is: " + result);
     }
 }
+
+// TC O(N)
